@@ -1,0 +1,3 @@
+2025 January 21
+
+The class was introductory, discussing syllabus and topics to be studied. We learned a little bit about compilers, executable files and computer architecture, as well as policies and evaluations during the course.
