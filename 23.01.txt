@@ -1,0 +1,1 @@
+January 23's class was mainly about Linux and Unix. After reviewing them, we discussed their differences. Linux is similar to Unix but it is free and flexible. Then we moved to the observation of Linux commands, such as ls, mkdir, cp, cd and many others.

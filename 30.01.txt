@@ -1,0 +1,1 @@
+January 30's class was mainly about number systems and how they are related to computers. We discussed binary numbers, their addition, how they are related to screen and visual representation of photos. Also, at the end of the class, we learned about several git commands and how to work with git and github.
