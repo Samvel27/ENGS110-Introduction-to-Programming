@@ -1,0 +1,1 @@
+On February 18th we learned how to deal with files using C, learning and implementing commands such as fopen(), fclose(), etc.

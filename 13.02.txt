@@ -1,0 +1,1 @@
+On February 13th we again discussed the dynamic arrays in C. At the end of the class we wrote our first quiz (quiz 1).

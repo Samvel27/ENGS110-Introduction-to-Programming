@@ -1,0 +1,1 @@
+On February 20th we discussed bitwise operations in C prior to our second quiz which was focused mainly on that topic and also included arrays.

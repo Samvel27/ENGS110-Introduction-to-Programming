@@ -1,0 +1,2 @@
+On February 25th we talked about our projects(software and hardware), discussed possible ideas and topic to choose from (interpolation, hasing, CRC32, etc.)
+We also discussed local and global variables, debug mode and release mode.

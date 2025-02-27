@@ -1,0 +1,1 @@
+On February 11th we learned about basics of arrays, including both static and dynamic arrays, pointers, dereferencing and their usage in code.
