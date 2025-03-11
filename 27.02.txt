@@ -1,0 +1,1 @@
+On February 27th we learned about transmission of text between the files. Also, the class introduced us to threads and mutex.
