@@ -1,0 +1,1 @@
+On April 8 we continued the topic of file connections and writing a library and continued working on fucntions in our self-made string library.

@@ -1,0 +1,1 @@
+On March 27 we talked about FSM and wrote a program for traffic light simulation using learned method.

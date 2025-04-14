@@ -1,0 +1,1 @@
+During April 1 class we learned a new topics - structures. We talked about their properties and applicatons in code.

@@ -1,0 +1,2 @@
+On April 3 we talked about file connections in C, what are .h and .c files, what are their purposes and how they work.
+
