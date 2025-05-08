@@ -1,0 +1,2 @@
+On April 17 we talked about building our own libraries and how to implement structures and pointers to structures in them.
+
