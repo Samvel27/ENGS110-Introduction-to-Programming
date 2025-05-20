@@ -1,0 +1,1 @@
+During May 13 class we discussed we continued the topic of lists and their implementation. Unfortunately, we didn't manage to cover the final exam topics.
